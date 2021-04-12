@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResolutionHelper", "ConsoleApp1\ResolutionHelper.csproj", "{A53DE4A0-92DA-4421-BFCC-04EDA49C2610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A53DE4A0-92DA-4421-BFCC-04EDA49C2610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53DE4A0-92DA-4421-BFCC-04EDA49C2610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53DE4A0-92DA-4421-BFCC-04EDA49C2610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53DE4A0-92DA-4421-BFCC-04EDA49C2610}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E19E43F-8BD1-46C7-ACEB-3B13FC18CFE9}
+	EndGlobalSection
+EndGlobal
