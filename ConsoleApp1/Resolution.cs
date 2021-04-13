@@ -138,7 +138,6 @@ namespace ResolutionHelper
                                                         // for the graphics mode to work.
         #endregion
         
-
         #region DllImport
         [DllImport("User32.dll")]
         [return: MarshalAs(UnmanagedType.Bool)]
