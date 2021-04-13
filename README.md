@@ -13,3 +13,8 @@ Nvidia Control Panel -> Display -> Change Resolution -> Customize -> (IF NOT) Ch
 Also:
 Nvidia Control Panel -> Display -> Adjust desktop size and position -> Fullscreen 
 
+
+To deploy a single exe file :
+run cmd in the sln folder
+dotnet publish -r win-x64 -c Release --self-contained
+
